@@ -1,4 +1,4 @@
-# TodoGenie (Todo List Web Application)
+# TodoList (Todo List Web Application)
 
 A responsive Todo List web application developed using React.js and Tailwind CSS. This application allows users to add, delete, and update tasks, enhancing productivity and ensuring efficient task management.
 
